@@ -7,6 +7,10 @@ _S&P 500 Stock Clustering & Portfolio Diversification_
 This project analyses the S&P 500 index to cluster stocks based on Daily Return, Beta, and Annual Volatility metrics. The S&P 500 comprises 500 large-cap US companies across various sectors, traded on the NYSE or Nasdaq — making it an ideal dataset for algorithmic clustering and portfolio diversification.
 Investing in stocks with different betas helps reduce overall portfolio risk, as varying betas tend to indicate different patterns of return and volatility. By managing exposure across a range of beta values, investors can build more resilient, diversified portfolios.
 
+**Tools used:**
+
+- Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly)
+
 **Tasks:**
 
 1. Data Loading

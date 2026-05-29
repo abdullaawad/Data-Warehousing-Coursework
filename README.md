@@ -1,1 +1,1 @@
-# Stock=Segmentation-using=Clustering
+# Stock-Segmentation-using-Clustering

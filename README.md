@@ -32,4 +32,5 @@ Discuss how CRM (Customer Relationship Management) tools contribute to sustainab
 **Dataset:**
 
 Source: Wikipedia – List of S&P 500 Companies
+
 Scope: 500 large-cap US companies, NYSE & Nasdaq listed

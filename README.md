@@ -14,24 +14,24 @@ Investing in stocks with different betas helps reduce overall portfolio risk, as
 **Tasks:**
 
 1. Data Loading
-Load S&P 500 company and price data from the Wikipedia source linked above.
+Loaded S&P 500 company and price data from the Wikipedia source linked above.
 2. Metric Calculation (Google Colab)
-Define and calculate the following metrics for each stock:
+Defined and calculated the following metrics for each stock:
 Daily Return — percentage change in price day over day
 Beta — sensitivity of the stock's return relative to the market
 Annual Volatility — standard deviation of daily returns, annualised
 
 3. Metric Illustration
-Demonstrate how Daily Return, Beta, and Annual Volatility can be used to segment stocks into categories, helping investors align their portfolios with specific risk tolerances and market strategies.
+Demonstrated how Daily Return, Beta, and Annual Volatility can be used to segment stocks into categories, helping investors align their portfolios with specific risk tolerances and market strategies.
 
 4. Agglomerative Clustering
-Divide the stock portfolio into groups across the three dimensions (Daily Return, Beta, Annual Volatility) using agglomerative (hierarchical) clustering.
+Divided the stock portfolio into groups across the three dimensions (Daily Return, Beta, Annual Volatility) using agglomerative (hierarchical) clustering.
 
 5. K-Means Clustering
-Divide the stock portfolio into tiered groups across the same three dimensions using K-Means clustering. For each identified cluster, discuss the profile in terms of Beta and Annual Volatility characteristics.
+Divided the stock portfolio into tiered groups across the same three dimensions using K-Means clustering. For each identified cluster, discuss the profile in terms of Beta and Annual Volatility characteristics.
 
 6. CRM & Sustainability in Fintech
-Discuss how CRM (Customer Relationship Management) tools contribute to sustainability in Financial Technology (Fintech), highlighting practical benefits and insights into how these systems can support a more sustainable future for businesses.
+Discussed how CRM (Customer Relationship Management) tools contribute to sustainability in Financial Technology (Fintech), highlighting practical benefits and insights into how these systems can support a more sustainable future for businesses.
 
 **Dataset:**
 
